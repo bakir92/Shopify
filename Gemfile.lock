@@ -109,7 +109,7 @@ GEM
       omniauth (~> 1.2)
     omniauth-shopify-oauth2 (1.2.1)
       omniauth-oauth2 (~> 1.5.0)
-    pg (0.21.0)
+    pg (0.20.0)
     rack (2.0.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -199,7 +199,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-  pg
+  pg (= 0.20.0)
   rails (= 5.0.1)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
